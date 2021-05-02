@@ -1,5 +1,22 @@
 cacheUrl: https://jbwl.github.io/rss/cache.json
 sources:
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  - href: https://www.stewartlee.co.uk/home/feed/
+  - href: https://feeds.feedburner.com/mcsweeneys
+  - href: https://www.stewartlee.co.uk/feed/
+  - href: https://feeds.feedburner.com/pudding/feed
+  - href: https://appletrack.org/feed/
+  - href: https://daringfireball.net/feeds/json 
+  - href: https://www.logically.ai/articles/rss.xml
+  - href: http://www.spiegel.de/schlagzeilen/eilmeldungen/index.rss
+  - href: https://medium.com/feed/@DaleBeran
+  - href: https://feeds.megaphone.fm/darknetdiaries
+  - href: http://krebsonsecurity.com/feed/
+  - href: https://www.mattblaze.org/blog/rss20.xml
+  - href: https://www.schneier.com/feed/atom/
+  - href: https://ericasadun.com/feed/
+  - href: https://inessential.com/feed.json
+  - href: https://dyn.keepa.com/v2/user/rss/?feed=rk0iacdfpaidlmjna8vdls054rffr7sp
+  - href: http://www.marco.org/rss
+  - href: https://mjtsai.com/blog/feed/
+  - href: https://nnw.ranchero.com/feed.json
+  - href: https://medium.com/feed/@musicdatapro
